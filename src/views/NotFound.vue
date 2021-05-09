@@ -1,5 +1,8 @@
 <template>
-  <div>404</div>
+  <div>
+    404
+    <br>
+    </div>
 </template>
 
 <script lang="ts">

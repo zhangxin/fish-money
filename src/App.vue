@@ -1,12 +1,17 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/">money</router-link> |
-      <router-link to="/labels">labels</router-link>
-    </div>
     <router-view/>
+
   </div>
 </template>
+
+<script lang="ts">
+
+export default {
+  components: {
+  }
+};
+</script>
 
 <style lang="scss">
 #app {
