@@ -2,6 +2,7 @@
   <div>
     404
     <br>
+    <router-link to="/">返回首页</router-link>
     </div>
 </template>
 
