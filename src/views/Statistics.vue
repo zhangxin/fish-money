@@ -1,8 +1,7 @@
 <template>
-  <div>统计
-    <br>
-    <Nav></Nav>
-  </div>
+  <Layout>
+    tongji
+  </Layout>
 </template>
 
 <script lang="ts">
